@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2005anurag2602&label=Profile%20views&color=0e75b6&style=flat" alt="2005anurag2602" /> </p>
 
-- 🔭 I’m currently working on **Clone Of Whatsapp Web**
+
 
 - 🌱 I’m currently learning **Angular, react.js**
 

@@ -4,9 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Angular, react.js**
 
-- My Project using Frontend is a [Weather Forecast](https://2005anurag2602.github.io/Weather-Forecast/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/2005anurag2602](https://github.com/2005anurag2602)
 

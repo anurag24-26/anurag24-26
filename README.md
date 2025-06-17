@@ -8,7 +8,7 @@
 - 👨‍💻 I enjoy crafting seamless and intuitive user experiences.
 - 💼 Currently building responsive frontends with modern stacks.
 - 📫 Reach me at: **anuragtripathi2602@gmail.com**
-- 🔗 Check out my projects: [github.com/2005anurag2602](https://github.com/2005anurag2602)
+- 🔗 Check out my projects: [github.com/2005anurag2602](https://github.com/anurag24-26)
 
 ---
 

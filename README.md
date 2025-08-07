@@ -19,9 +19,7 @@
 
 | Project Name | Description | Link |
 |--------------|-------------|------|
-| **Saraswati Coaching Website** | Full-stack website for managing admissions and results for a real coaching institute | [GitHub Repo](https://github.com/anurag24-26/saraswati-coaching) |
-| **Game Record Keeper App** | React Native parental control app to track screen time and notify limits | [GitHub Repo](https://github.com/anurag24-26/GameRecordKeeper) |
-| **Hospital Management System** | Advanced Python-Tkinter based GUI system for patient and billing management | [GitHub Repo](https://github.com/anurag24-26/Hospital-Management-System) |
+| **Saraswati Coaching Website** | Full-stack website for managing admissions and results for a real coaching institute | [GitHub Repo](https://github.com/anurag24-26/clientsite2) |
 | **BridgeLabz Java Training** | Hands-on Core Java, OOPS, DSA, and Generics with practical assignments | [GitHub Repo](https://github.com/anurag24-26/BridgeLabz-Java-SIPP) |
 
 ---

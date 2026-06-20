@@ -14,9 +14,6 @@
 
 - 🔨 Building full-stack web apps with **React, Node.js, Express, and MongoDB**
 - 💼 Freelance developer — delivered real products for real clients (conference sites, coaching platforms)
-- 🔐 Currently working on **Crypteera** — an AES-encrypted cloud file-sharing platform
-- 🎨 UI/UX-focused: I design in Figma before I write a single line of code
-- 📍 Based in India · Open to full-time hybrid roles in **Noida / Gurgaon**
 
 ---
 
